@@ -12,3 +12,4 @@ git rm -r --cached .
 git add .
 git commit -am "Removed git ignored files"
 git push -f origin master
+.DS_Store
